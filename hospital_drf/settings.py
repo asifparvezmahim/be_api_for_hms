@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-a#ccloq=b2okg%h5ti+p3xn8i+(9%x9k1-yt+-15&vr6)cdkwe
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
-CSRF_TRUSTED_ORIGINS = ["https://*.127.0.0.1"]
+CSRF_TRUSTED_ORIGINS = ["https://be-api-for-hms.onrender.com/","https://*.127.0.0.1"]
 
 
 # Application definition
